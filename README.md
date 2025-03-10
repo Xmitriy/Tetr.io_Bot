@@ -10,7 +10,7 @@ the bot automatically starts into zen mode and completes the first level.
 ## install
 
     $ sudo apt install chromium xserver-xephyr libxtst-dev libpng++-dev python g++ make
-    $ git clone https://github.com/misterhat/tetrio-bot
+    $ git clone https://github.com/Xmitriy/Tetr.io_Bot.git
     $ cd tetrio-bot && npm install
 
 ## usage
